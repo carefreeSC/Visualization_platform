@@ -1,7 +1,10 @@
 # Visualization_platform
 可视化低代码  
 鉴于自己的需求及技术，构建一款前端低代码平台（主要技术栈为vue2）
-前端方面完成后，使用node设计接口，数据库使用mysql，不定期更新。
+前端方面完成后，使用node设计接口，数据库使用mysql，不定期更新。  
+前端代码--client  
+后端接口--serve  
+数据库文件导入--sql_resource
 ## 开源平台参考
 1.visual-drag-demo  
 2.quark-h5
