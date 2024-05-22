@@ -16,11 +16,12 @@ nvm(快速下载/切换node版本):https://blog.csdn.net/weixin_64463374/article
 2.npm i  
 3.npm run start
 ## 功能点
-### -- Login（登录页）
+### --LOGIN（登录页）
 1.登录  
 2.注册  
 ### --HOME （首页）
 1.工程列表  
 2.新建工程  
 3.动态路由  
-4.用户管理（权限、crud）
+4.工程管理  
+5.用户管理（权限、crud）
